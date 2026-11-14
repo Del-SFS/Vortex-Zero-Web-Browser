@@ -6,7 +6,7 @@ A ideia aqui foi juntar a paixão por desenvolvimento com a vontade de criar uma
 
 ---
 
-## ✨ O que rola por aqui? (Recursos)
+## ✨ que Recursos ele tem?
 
 O Vortex-Zero não é só uma janelinha bonitinha, ele vem equipado com o que a gente mais usa na web:
 
@@ -33,3 +33,5 @@ Quer testar o código ou ajudar a melhorar o Vortex-Zero? É super simples:
    ```bash
    git clone [https://github.com/Del-SFS/Vortex-Zero-Web-View.git](https://github.com/Del-SFS/Vortex-Zero-Web-View.git)
    cd Vortex-Zero-Web-View
+
+[Pag itch.io](https://del-sfs.itch.io/vortex-zero-web-browser)
